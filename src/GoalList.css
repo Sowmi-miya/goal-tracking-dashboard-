@@ -1,0 +1,40 @@
+.goal-list-page {
+  background: linear-gradient(135deg, #1c1c1c, #2d2d2d);
+  min-height: 100vh;
+  color: #fff;
+  padding: 3rem;
+  font-family: 'Segoe UI', sans-serif;
+  background-image: url('https://source.unsplash.com/1600x900/?motivation,success');
+  background-size: cover;
+  background-blend-mode: multiply;
+}
+
+.header {
+  background: rgba(0, 0, 0, 0.6);
+  padding: 1rem 2rem;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+}
+
+.quote {
+  font-size: 1.2rem;
+  font-style: italic;
+  margin-top: 0.5rem;
+  color: #a0eec0;
+}
+
+.goals {
+  list-style: none;
+  padding: 0;
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 10px;
+  padding: 2rem;
+}
+
+.goals li {
+  padding: 0.75rem 1rem;
+  background: #2c2c2c;
+  margin: 0.5rem 0;
+  border-radius: 6px;
+  font-weight: 500;
+}

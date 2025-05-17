@@ -1,0 +1,30 @@
+body {
+  background: #121212;
+  color: #fff;
+  font-family: 'Segoe UI', sans-serif;
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.dashboard {
+  background: #1f1f1f;
+  padding: 2rem;
+  border-radius: 12px;
+  width: 400px;
+  box-shadow: 0 0 10px #000;
+}
+
+input {
+  padding: 0.5rem;
+  width: 80%;
+  margin-right: 0.5rem;
+}
+
+button {
+  background: #03dac6;
+  border: none;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  border-radius: 4px;
+}
